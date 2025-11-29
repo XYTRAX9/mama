@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mama/static/css/main.2f9c36f6.css",
+    "main.js": "/mama/static/js/main.3bde873f.js",
+    "static/js/453.fa7ed09c.chunk.js": "/mama/static/js/453.fa7ed09c.chunk.js",
+    "index.html": "/mama/index.html",
+    "main.2f9c36f6.css.map": "/mama/static/css/main.2f9c36f6.css.map",
+    "main.3bde873f.js.map": "/mama/static/js/main.3bde873f.js.map",
+    "453.fa7ed09c.chunk.js.map": "/mama/static/js/453.fa7ed09c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f9c36f6.css",
+    "static/js/main.3bde873f.js"
+  ]
+}
